@@ -57,4 +57,4 @@ Blayne Fuller
 If you have any questions about the usage of this application feel free to contact me at befuller2004@gmail.com
 
 ## Tutorial Video
-[Embedded Tutorial Video]()
+[Embedded Tutorial Video](https://github.com/blayne-04/EComm_backend/assets/107909315/da79ccbd-6a99-49fa-ae07-0f18c032b6d8)
