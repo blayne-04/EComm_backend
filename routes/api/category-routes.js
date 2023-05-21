@@ -53,7 +53,7 @@ router.put('/:id', async (req, res) => {
 router.delete('/:id', async (req, res) => {
   // delete a category by its `id` value
   try{
-    const catDelete = await Category.destroy({ where: { id: req.params.id}})
+    const catDelete = await Category.destroy({ where: { id: req.params.id}, cascade: true})
     if(catDelete){
       res.status(200).json({message: 'Category Deleted'})
     } else{

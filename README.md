@@ -24,7 +24,7 @@ node server.js
 * The following json can be used in the corresponding insomnia routes
 
 * /api/categories POST
-* /api/categories PUT
+* /api/categories/:id PUT
 * /api/tags POST
 * /api/tags/:id PUT
 ```JSON
