@@ -9,6 +9,7 @@ This application contains the backend functionality for an ecommerce website, in
 * IDE
 * Insomnia or similar HTTP/API Client
 ### Execution
+* Run schema.sql in mysql
 * Set Up .env file with the following
 ```
 DB_NAME="ecommerce_db"
